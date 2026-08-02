@@ -36,3 +36,139 @@ Whether you're into photography, coding, music, fitness, art, gaming, or any nic
 - 👤 Custom user profiles
 - 📱 Fully responsive design
 - ⚡ Fast and modern user experience
+
+---
+
+# 🛠 Tech Stack
+
+### Frontend
+
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
+
+### Backend
+
+- Next.js API Routes
+- Prisma ORM
+- PostgreSQL
+
+### Authentication
+
+- Secure user authentication
+
+### Deployment
+
+- Vercel
+- PostgreSQL Database
+
+---
+
+# 🚀 Getting Started
+
+## Clone the repository
+
+```bash
+git clone https://github.com/Swapnil-Biswas/emberlane.git
+
+cd emberlane
+```
+
+## Install dependencies
+
+```bash
+npm install
+```
+
+## Configure environment variables
+
+Create a `.env` file.
+
+```env
+DATABASE_URL=
+AUTH_SECRET=
+NEXT_PUBLIC_APP_URL=
+```
+
+## Run the development server
+
+```bash
+npm run dev
+```
+
+Visit:
+
+```
+http://localhost:3000
+```
+
+---
+
+# 📂 Project Structure
+
+```
+app/
+components/
+lib/
+prisma/
+public/
+hooks/
+styles/
+types/
+```
+
+---
+
+# 🎯 Vision
+
+We believe hobbies create some of the strongest communities. Emberlane aims to remove the barriers between people with shared interests by providing a platform that encourages exploration, collaboration, and genuine friendships.
+
+---
+
+# 🛣️ Roadmap
+
+- [ ] AI-powered hobby recommendations
+- [ ] Hobby matching algorithm
+- [ ] Community chat
+- [ ] Events & meetups
+- [ ] Achievement badges
+- [ ] User-created communities
+- [ ] Hobby challenges
+- [ ] Mobile application
+
+---
+
+# 🤝 Contributing
+
+Contributions are always welcome!
+
+```bash
+Fork 🍴
+↓
+Create Feature Branch 🌿
+↓
+Commit Changes 💻
+↓
+Push 🚀
+↓
+Open Pull Request 🎉
+```
+
+---
+
+# 📜 License
+
+Licensed under the MIT License.
+
+---
+
+<div align="center">
+
+### Made with ❤️ by Swapnil Biswas
+
+*"Every great friendship starts with a shared passion."*
+
+⭐ Star the repository if you found it interesting!
+
+</div>
